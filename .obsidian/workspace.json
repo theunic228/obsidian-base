@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "e045c57a3580f85c",
+    "id": "e66212c03edff3f8",
     "type": "split",
     "children": [
       {
-        "id": "0b1ab2bcab82b241",
+        "id": "33f606052efbe643",
         "type": "tabs",
         "children": [
           {
-            "id": "bf70a36018093a71",
+            "id": "4a0a6cec95603f09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. apps/todo/1. day one.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. day one"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0026ff4fb3c07083",
+    "id": "1212da161de371a0",
     "type": "split",
     "children": [
       {
-        "id": "893ecc9aa54419f8",
+        "id": "6b7fed9b16a0a7b5",
         "type": "tabs",
         "children": [
           {
-            "id": "a478b3089c1155d5",
+            "id": "43af11d4c12ccfa2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "af80e238caca8784",
+            "id": "693eb04a87332922",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "9956d86ce7ac1c74",
+            "id": "463cf10324b3d97a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "a0485817107e9300",
+    "id": "3337590b849f557d",
     "type": "split",
     "children": [
       {
-        "id": "de4ec8a86a6a91c7",
+        "id": "6ce9e3634e77dd0f",
         "type": "tabs",
         "children": [
           {
-            "id": "4196f119800ec2c0",
+            "id": "f751af4883a4d87a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. apps/todo/1. day one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +98,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. day one"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "82946434e0b423d4",
+            "id": "325f0aafd509c02e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +115,7 @@
             }
           },
           {
-            "id": "0e267dd7ac9abb23",
+            "id": "cf69d9b7e40fe00f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +128,7 @@
             }
           },
           {
-            "id": "0627d368c13822f2",
+            "id": "93f6adf480eb4cad",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -159,14 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf70a36018093a71",
-  "lastOpenFiles": [
-    "2. net/2.1.md",
-    "1. base/1.6 Массивы и Слайсы.md",
-    "4. apps/todo/1. day one.md",
-    "2. net",
-    "4. apps/todo/0. mini todo start.md",
-    "Untitled.md",
-    "4. apps/todo"
-  ]
+  "active": "4a0a6cec95603f09",
+  "lastOpenFiles": []
 }
