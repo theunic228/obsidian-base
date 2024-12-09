@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. other/Стандартная библиотека (go std lib).md",
-                "mode": "source",
+                "file": "4. apps/todo/0. mini todo start.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стандартная библиотека (go std lib)"
+              "title": "0. mini todo start"
             }
           }
         ]
@@ -161,14 +161,20 @@
   },
   "active": "bf70a36018093a71",
   "lastOpenFiles": [
+    "1. base/1.1 Пакеты.md",
     "3. other/Runtime.md",
     "3. other/Линтеры.md",
-    "3. other/Стандартная библиотека (go std lib).md",
-    "4. apps/todo/1. day one.md",
-    "2. net/2.1.md",
+    "1. base/1.8 Функции.md",
+    "1. base/1.3 Переменные.md",
+    "1. base/1.5 Условия (if, switch).md",
     "1. base/1.6 Массивы и Слайсы.md",
-    "2. net",
+    "1. base/1.7 Range.md",
     "4. apps/todo/0. mini todo start.md",
+    "4. apps/todo/1. day one.md",
+    "3. other/Стандартная библиотека (go std lib).md",
+    "1. base/1.4 Циклы.md",
+    "2. net/2.1.md",
+    "2. net",
     "Untitled.md",
     "4. apps/todo"
   ]
