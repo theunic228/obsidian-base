@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. apps/todo/1. day one.md",
-                "mode": "preview",
+                "file": "3. other/Стандартная библиотека (go std lib).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. day one"
+              "title": "Стандартная библиотека (go std lib)"
             }
           }
         ]
@@ -161,9 +161,12 @@
   },
   "active": "bf70a36018093a71",
   "lastOpenFiles": [
+    "3. other/Runtime.md",
+    "3. other/Линтеры.md",
+    "3. other/Стандартная библиотека (go std lib).md",
+    "4. apps/todo/1. day one.md",
     "2. net/2.1.md",
     "1. base/1.6 Массивы и Слайсы.md",
-    "4. apps/todo/1. day one.md",
     "2. net",
     "4. apps/todo/0. mini todo start.md",
     "Untitled.md",
